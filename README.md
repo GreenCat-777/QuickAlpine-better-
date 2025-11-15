@@ -16,4 +16,4 @@ Running Alpine Easily
 
 
 Full disclosure I did not make any of this. I only assembled files added icons and made them scriptlets.
-Credit to [@Entersjkhdfkjdhfksjf](https://github.com/Entersjkhdfkjdhfksjf) [Alpine files](https://github.com/Entersjkhdfkjdhfksjf/alpine_kindle/releases)
+Credit to [@Entersjkhdfkjdhfksjf](https://github.com/Entersjkhdfkjdhfksjf) and to [@schuhumi](https://github.com/schuhumi) [Alpine files](https://github.com/Entersjkhdfkjdhfksjf/alpine_kindle/releases)
