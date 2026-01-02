@@ -14,6 +14,17 @@ Installing Latest Alpine Easily.
 Uninstalling Alpine Easily.
 Running Alpine Easily
 
+# Credits
 
-Full disclosure I did not make any of this. I only assembled files added icons and made them scriptlets.
-Credit to [@Entersjkhdfkjdhfksjf](https://github.com/Entersjkhdfkjdhfksjf) and to [@schuhumi](https://github.com/schuhumi) [Alpine files](https://github.com/Entersjkhdfkjdhfksjf/alpine_kindle/releases)
+[@Entersjkhdfkjdhfksjf](https://github.com/Entersjkhdfkjdhfksjf)
+
+[@schuhumi](https://github.com/schuhumi)
+
+[Alpine files](https://github.com/Entersjkhdfkjdhfksjf/alpine_kindle/releases)
+
+# License
+This project is released into the public domain under The Unlicense.
+No rights reserved.
+
+Attribution is appreciated but is not required.
+
