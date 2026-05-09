@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11TVK1A)
+
 # QuickAlpine(better)
 A application that allows you to quickly, launch, remove, and install the latest available alpine for kindle.
 # How is this "Better" than QuickAlpine?
